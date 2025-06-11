@@ -1,0 +1,1 @@
+Results for life cycle assessment (LCA) of scenarios provided for flavored food production based on experimental data and separate process simulation. All code used to generate these LCA results is available `here <https://github.com/sarangbhagwat/flavored_food_lca/>`__.
